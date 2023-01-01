@@ -1,3 +1,4 @@
+package week01;
 // 기본 자료형
 public class Primitive_type {
     public static void main(String[] args) {
